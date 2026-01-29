@@ -13,6 +13,6 @@ langchain-ollama
 langchain_openai >= 1.0.0
 langgraph >= 1.0.0
 sqlalchemy
-
+prefect
 psutil
 streamlit-flow-component
